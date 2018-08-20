@@ -1,0 +1,202 @@
+Patient;OEF;Distance;Group
+A;0.3417;23.2;Large mismatch
+A;0.3433;23.2;Large mismatch
+A;0.3589;23.2;Large mismatch
+A;0.3627;23.2;Large mismatch
+A;0.3736;23.2;Large mismatch
+A;0.3813;23.2;Large mismatch
+A;0.4185;23.2;Large mismatch
+A;0.4241;23.2;Large mismatch
+A;0.4479;23.2;Large mismatch
+A;0.4591;23.2;Large mismatch
+A;0.2594;16.6;Large mismatch
+A;0.2711;16.6;Large mismatch
+A;0.2826;16.6;Large mismatch
+A;0.2832;16.6;Large mismatch
+A;0.3152;16.6;Large mismatch
+A;0.2956;12.5;Large mismatch
+A;0.3008;12.5;Large mismatch
+A;0.3074;12.5;Large mismatch
+A;0.324;12.5;Large mismatch
+A;0.3328;12.5;Large mismatch
+A;0.3337;12.5;Large mismatch
+A;0.3678;12.5;Large mismatch
+A;0.3679;12.5;Large mismatch
+A;0.3829;12.5;Large mismatch
+A;0.3525;6.34;Large mismatch
+A;0.3567;6.34;Large mismatch
+A;0.3683;6.34;Large mismatch
+A;0.3873;6.34;Large mismatch
+A;0.3911;6.34;Large mismatch
+A;0.3934;6.34;Large mismatch
+A;0.4092;6.34;Large mismatch
+A;0.389;3.8;Large mismatch
+A;0.3952;3.8;Large mismatch
+A;0.4083;3.8;Large mismatch
+A;0.4129;3.8;Large mismatch
+A;0.4344;3.8;Large mismatch
+A;0.4369;3.8;Large mismatch
+A;0.4475;3.8;Large mismatch
+A;0.4798;3.8;Large mismatch
+A;0.5431;3.8;Large mismatch
+A;0.2424;15.5;Large mismatch
+A;0.2544;15.5;Large mismatch
+A;0.2613;15.5;Large mismatch
+A;0.2716;15.5;Large mismatch
+A;0.2737;15.5;Large mismatch
+A;0.2944;15.5;Large mismatch
+A;0.3323;8.56;Large mismatch
+A;0.3778;8.56;Large mismatch
+A;0.3951;8.56;Large mismatch
+A;0.4142;8.56;Large mismatch
+A;0.4581;8.56;Large mismatch
+B;0.2529;7.85;Large mismatch
+B;0.1132;7.85;Large mismatch
+B;0.2502;7.85;Large mismatch
+B;0.2707;7.85;Large mismatch
+B;0.2242;7.85;Large mismatch
+B;0.3037;7.85;Large mismatch
+B;0.2662;7.85;Large mismatch
+B;0.2635;7.85;Large mismatch
+B;0.3357;7.85;Large mismatch
+B;0.2731;7.85;Large mismatch
+B;0.3322;0.78125;Large mismatch
+B;0.2741;0.78125;Large mismatch
+B;0.3095;0.78125;Large mismatch
+B;0.2923;0.78125;Large mismatch
+B;0.5573;0.78125;Large mismatch
+B;0.2806;0.78125;Large mismatch
+B;0.3471;0.78125;Large mismatch
+B;0.3625;0.78125;Large mismatch
+B;0.5736;0.78125;Large mismatch
+B;0.3134;0.78125;Large mismatch
+B;0.2991;0.78125;Large mismatch
+B;0.3809;0.78125;Large mismatch
+B;0.1801;0.78125;Large mismatch
+B;0.2494;10.1;Large mismatch
+B;0.2438;10.1;Large mismatch
+B;0.2062;10.1;Large mismatch
+B;0.2384;10.1;Large mismatch
+B;0.1995;10.1;Large mismatch
+B;0.2062;10.1;Large mismatch
+B;0.2505;10.1;Large mismatch
+B;0.2026;12.8;Large mismatch
+B;0.2499;12.8;Large mismatch
+B;0.1803;12.8;Large mismatch
+B;0.1706;12.8;Large mismatch
+B;0.193;12.8;Large mismatch
+B;0.2143;12.4;Large mismatch
+B;0.1838;12.4;Large mismatch
+B;0.1756;12.4;Large mismatch
+B;0.2657;12.4;Large mismatch
+B;0.2697;12.4;Large mismatch
+B;0.2765;12.4;Large mismatch
+B;0.2485;12.4;Large mismatch
+B;0.0209;12.4;Large mismatch
+B;0.2164;12.4;Large mismatch
+C;0.1814;25.13;Match
+C;0.2149;25.13;Match
+C;0.2169;25.13;Match
+C;0.2225;25.13;Match
+C;0.2338;25.13;Match
+C;0.2471;25.13;Match
+C;0.2475;25.13;Match
+C;0.2495;25.13;Match
+C;0.251;25.13;Match
+C;0.2534;25.13;Match
+C;0.2545;25.13;Match
+C;0.2561;25.13;Match
+C;0.2729;25.13;Match
+C;0.3233;25.13;Match
+C;0.3317;25.13;Match
+C;0.381;25.13;Match
+C;0.2076;6.3;Match
+C;0.2206;6.3;Match
+C;0.2206;6.3;Match
+C;0.2249;6.3;Match
+C;0.2362;6.3;Match
+C;0.2386;6.3;Match
+C;0.2404;6.3;Match
+C;0.2512;6.3;Match
+C;0.2644;6.3;Match
+C;0.3244;6.3;Match
+C;0.3338;6.3;Match
+C;0.3341;6.3;Match
+C;0.3803;6.3;Match
+C;0.2391;16.6;Match
+C;0.2491;16.6;Match
+C;0.2543;16.6;Match
+C;0.2733;16.6;Match
+C;0.2799;16.6;Match
+C;0.2864;16.6;Match
+C;0.295;16.6;Match
+C;0.3199;16.6;Match
+C;0.326;16.6;Match
+C;0.3285;16.6;Match
+C;0.3418;16.6;Match
+C;0.355;16.6;Match
+C;0.3667;16.6;Match
+C;0.387;16.6;Match
+C;0.215;19.4;Match
+C;0.2204;19.4;Match
+C;0.2315;19.4;Match
+C;0.2427;19.4;Match
+C;0.2483;19.4;Match
+C;0.2557;19.4;Match
+C;0.2762;19.4;Match
+C;0.2935;19.4;Match
+C;0.2943;19.4;Match
+C;0.352;19.4;Match
+C;0.3929;19.4;Match
+D;0.1942;34.33;Match
+D;0.203;34.33;Match
+D;0.2116;34.33;Match
+D;0.2291;34.33;Match
+D;0.2448;34.33;Match
+D;0.2695;34.33;Match
+D;0.2762;34.33;Match
+D;0.3148;34.33;Match
+D;0.1972;18.543;Match
+D;0.2268;18.543;Match
+D;0.2336;18.543;Match
+D;0.2337;18.543;Match
+D;0.2418;18.543;Match
+D;0.2566;18.543;Match
+D;0.2651;18.543;Match
+D;0.2736;18.543;Match
+D;0.2759;18.543;Match
+D;0.2775;18.543;Match
+D;0.2861;18.543;Match
+D;0.2913;18.543;Match
+D;0.3044;18.543;Match
+D;0.3413;18.543;Match
+D;0.2092;5.96;Match
+D;0.2137;5.96;Match
+D;0.2203;5.96;Match
+D;0.2316;5.96;Match
+D;0.2457;5.96;Match
+D;0.2618;5.96;Match
+D;0.267;5.96;Match
+D;0.2696;5.96;Match
+D;0.2734;5.96;Match
+D;0.2753;5.96;Match
+D;0.3018;5.96;Match
+D;0.3076;5.96;Match
+D;0.3161;5.96;Match
+D;0.3223;5.96;Match
+D;0.3284;5.96;Match
+D;0.3324;5.96;Match
+D;0.3758;5.96;Match
+D;0.1197;0.797;Match
+D;0.2094;0.797;Match
+D;0.2136;0.797;Match
+D;0.2203;0.797;Match
+D;0.2454;0.797;Match
+D;0.248;0.797;Match
+D;0.2492;0.797;Match
+D;0.251;0.797;Match
+D;0.2596;0.797;Match
+D;0.2623;0.797;Match
+D;0.268;0.797;Match
+D;0.2698;0.797;Match
+D;0.2711;0.797;Match
