@@ -53,6 +53,7 @@ anova(OEF_model)
 summary(OEF_model)
 # get R^2 of mixed model
 OEF_rsq <- r.squaredGLMM(OEF_model)
+print(OEF_rsq)
 # prepare for effects visualization
 OEF_effects <- allEffects(OEF_model)
 # plot effects
@@ -73,6 +74,7 @@ anova(OEF_CBF_model)
 summary(OEF_CBF_model)
 # get R^2 of mixed model
 OEF_CBF_rsq <- r.squaredGLMM(OEF_CBF_model)
+print(OEF_CBF_rsq)
 # prepare for effects visualization
 OEF_CBF_effects <- allEffects(OEF_CBF_model)
 # plot effects
@@ -83,6 +85,7 @@ OEF_CBF_model_rel <- lmer(formula = rOEF~rCBF*Group + (1|Patient), data=OEF_CBF_
 anova(OEF_CBF_model_rel)
 summary(OEF_CBF_model_rel)
 OEF_CBF_rsq_rel <- r.squaredGLMM(OEF_CBF_model_rel)
+print(OEF_CBF_rsq_rel)
 OEF_CBF_effects_rel <- allEffects(OEF_CBF_model_rel)
 plot(OEF_CBF_effects_rel,main="")
 ```

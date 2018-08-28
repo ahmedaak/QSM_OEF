@@ -1,7 +1,0 @@
-"0","knitr::opts_chunk$set(echo = TRUE)"
-"0","require(lme4)"
-"0","require(lmerTest)"
-"0","require(effects)"
-"0","library(emmeans)"
-"0","library(kableExtra)"
-"0","library(MuMIn)"
